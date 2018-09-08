@@ -1,3 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -6,7 +13,7 @@
   background-size: 100%;
 }
 
-.my_social {
+/*.my_social {
   position: absolute;
   top: 25px;
   left: 25px;
@@ -19,13 +26,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 ul {
