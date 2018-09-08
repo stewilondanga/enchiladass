@@ -20,11 +20,12 @@ body {
   height: 1.5em;
 }
 
-/*ul {
+ul {
   list-style-type: circle;
   max-width: 250px;
 }
-p {
+
+/*p {
   width: 290px;
 }
 
