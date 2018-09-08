@@ -16,11 +16,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-ul {
+/*ul {
   list-style-type: circle;
   max-width: 250px;
 }
