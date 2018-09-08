@@ -46,10 +46,11 @@ summary:after {
   width: 20px;
 }
 
-/*details[open] summary:after {
+details[open] summary:after {
   content: "-";
 }
-details {
+
+/*details {
     border: 1px solid #E1E1E1;
     border-radius: 5px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, .4);
