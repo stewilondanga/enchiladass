@@ -33,7 +33,7 @@ summary::-webkit-details-marker {
   display: none
 }
 
-/*summary:after {
+summary:after {
   background: #1DE9B6;
   border-radius: 5px;
   content: "+";
@@ -45,7 +45,8 @@ summary::-webkit-details-marker {
   text-align: center;
   width: 20px;
 }
-details[open] summary:after {
+
+/*details[open] summary:after {
   content: "-";
 }
 details {
