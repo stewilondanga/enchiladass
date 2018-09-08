@@ -25,11 +25,11 @@ ul {
   max-width: 250px;
 }
 
-/*p {
+p {
   width: 290px;
 }
 
-summary::-webkit-details-marker {
+/*summary::-webkit-details-marker {
   display: none
 }
 summary:after {
